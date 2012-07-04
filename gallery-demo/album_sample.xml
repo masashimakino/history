@@ -52,4 +52,24 @@
 		<photo_loc>Camping</photo_loc>
 		<thumb_caption>Starfish</thumb_caption>
 	</photo>
+	<photo id="5">
+		<filename>2012-Penguins.jpg</filename>
+		<geo>
+			<lat>49.25</lat>
+			<lon>-123.7</lon>
+		</geo>
+		<photo_city>Victoria Island, BC</photo_city>
+		<photo_loc>Victoria Aquarium</photo_loc>
+		<thumb_caption>Penguins</thumb_caption>
+	</photo>
+	<photo id="6">
+		<filename>2012-Jellyfish.jpg</filename>
+		<geo>
+			<lat>49.35</lat>
+			<lon>-123.3</lon>
+		</geo>
+		<photo_city>Stanley Park, BC</photo_city>
+		<photo_loc>Downtown Aquarium</photo_loc>
+		<thumb_caption>Jellyfish</thumb_caption>
+	</photo>
 </album>
